@@ -1,0 +1,1 @@
+{'ver1':'10', 'ver2':'0', 'ver3':'\n[update] 2.20.206.24\n[add] New release\n[add] Many new features\n', 'dli':'https://zwhatsapp.github.io/dl/', 'exp952':'1', 'exp953':'100', 'exp954':'150'}
